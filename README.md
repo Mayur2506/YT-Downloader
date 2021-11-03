@@ -8,7 +8,7 @@
 
 ![Farmers Market Finder Demo](demo.gif)
   
-<h2>Technologies Used :</h2>
+<h2>TechStack Used :</h2>
 <ul>
   <li>Python</li>
   <li>Tkinter</li>
